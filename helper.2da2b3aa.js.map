@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/helper.js"],"names":["myHelper","console","log","temperature"],"mappings":";AAAA,IAAMA,EAAW,WACbC,QAAQC,IAAI,SACZD,QAAQC,IAAIC","file":"helper.2da2b3aa.js","sourceRoot":"..","sourcesContent":["const myHelper = () => {\n    console.log(\"Help!\");\n    console.log(temperature);\n};"]}
